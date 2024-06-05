@@ -310,7 +310,6 @@ void GetMatrix::create_empty(int k)
     siz=k;
     final_path.clear();
     rasst=0;
-    address="";
     std::vector<int> tmp;
     for (int i=0; i<k; i++)
     {
